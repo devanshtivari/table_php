@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* .row{
+    margin-top: 25px;
+} */
+
+.col-md-6, .col-md-12{
+    margin-top: 25px;
+}
+
+textarea{
+    resize: none;
+}
+
+#submit{
+    color: #fff;
+    background-color: #000;
+}
+
+#submit:focus{
+    color: #fff;
+    background-color: darkcyan;
+}
